@@ -12,4 +12,4 @@ set history=400"vim记住的历史操作的数量，默认的是20
 set nocompatible"使用vim自己的键盘模式,而不是兼容vi的模式
 set confirm"处理未保存或者只读文件时,给出提示
 set smartindent"智能对齐
-set shiftwidth=
+set shiftwidth=4
